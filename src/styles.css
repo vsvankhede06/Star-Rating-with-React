@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.star {
+  font-size: 40px;
+  /* cursor: pointer; */
+}
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: yellow;
+}
+.off {
+  color: black;
+}
